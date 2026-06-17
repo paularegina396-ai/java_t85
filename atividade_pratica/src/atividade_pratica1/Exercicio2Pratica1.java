@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio2Pratica1 {
 
 	public static void main(String[] args) {
-		//  inicio 16:21 -->16:30 
+		
 		Scanner leia = new Scanner(System.in);
 		//Declaração variaveis
 		String nome;

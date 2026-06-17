@@ -11,7 +11,7 @@ public class Ex4 {
 				System.out.println("Digite  o numero 1: ");
 				n1 = leia.nextFloat();
 				
-				System.out.println("Digite onumero 2: ");
+				System.out.println("Digite o numero 2: ");
 				n2 = leia.nextFloat();
 				
 				System.out.println("Digite o numero 3: ");

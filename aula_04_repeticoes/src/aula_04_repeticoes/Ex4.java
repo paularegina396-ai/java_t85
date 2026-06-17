@@ -5,12 +5,13 @@ import java.util.Scanner;
 public class Ex4 {
 
 	public static void main(String[] args) {
-Scanner leia = new Scanner(System.in);
-		
+		Scanner leia = new Scanner(System.in);
+		//Declaração variaveis
 		int idade, idGenero,area, totalRespostas = 0,somaIdade=0, backend=0,cond2=0,cond3=0, cond4=0,cond5=0;
 		double mediaIdades= 0.0;
 		char continua = 'S';
 		
+		//Condição    que repete a pesuqisa enquanto a resposta for S
 		while (continua == 'S') {
 			System.out.println("**********************************************");
 			System.out.println("********** Pesquisa  *************************");

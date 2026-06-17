@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio3Pratica1 {
 
 	public static void main(String[] args) {
-		// Inicio 16:36 --> 16:41 já havia feito um semelhante anteriormente
+		
 		Scanner leia = new Scanner(System.in);
 		
 		float numero1,numero2;
