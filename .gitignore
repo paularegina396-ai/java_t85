@@ -53,4 +53,9 @@ local.properties
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
-.worksheet
+.worksheet/
+
+.classpath/
+.project/
+.classpath
+.project
