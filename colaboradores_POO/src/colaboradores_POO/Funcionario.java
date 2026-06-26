@@ -2,13 +2,13 @@ package colaboradores_POO;
 
 public abstract class Funcionario {
 	
-	private String nome;
-	private String email;
-	private double salario;
-	//Método construtor
+	private String nome; // 1º: Passa pelo teste
+	private String email; // 2º: Passa pelo teste
+	private double salario; // 3º: Passa pelo teste
+	//Método construtor 
 	public Funcionario(String nome, String email, double salario) {
 		
-		Validacao.validarNome(nome);
+		Validacao.validarNome(nome); // 4º: Só se passar em tudo, salva na memória!
 		Validacao.validarEmail(email);
 		Validacao.validarSalario(salario);
 		
